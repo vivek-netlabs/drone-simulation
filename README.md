@@ -1,4 +1,5 @@
 # drone-simulation
+This container provides a visualization for my csci3081w drone-simulation.
 
 ## Pulling the image
 * syntax: *docker pull vivekmohinani/drone-simulation*
